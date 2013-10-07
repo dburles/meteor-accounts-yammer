@@ -1,0 +1,11 @@
+{
+  "name": "accounts-yammer",
+  "description": "Login service for Yammer",
+  "homepage": "https://github.com/dburles/meteor-accounts-yammer",
+  "author": "David Burles (twitter.com/dburles)",
+  "version": "0.1.0",
+  "git": "https://github.com/dburles/meteor-accounts-yammer.git",
+  "packages": {
+    "yammer": "0.1.0"
+  }
+}
